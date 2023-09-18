@@ -8,6 +8,9 @@
         "vector": "cpp",
         "initializer_list": "cpp",
         "*.tcc": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "map": "cpp",
+        "random": "cpp",
+        "type_traits": "cpp"
     }
 }
